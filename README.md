@@ -18,5 +18,9 @@ https://haseebspaniard.github.io/devops-git-project/
 - Ubuntu Linux (VirtualBox)
 - HTML/CSS
 
-## About Me:
-Junior DevOps Engineer in training. Learning Linux, Git, Networking, and Azure.
+## 👤 Author
+
+**Abdul Haseeb**
+Cloud & DevOps Learner | Former CS Teacher
+
+[Medium](https://medium.com/@haseebabdul480) | [LinkedIn](https://www.linkedin.com/in/abdulhaseebas)
